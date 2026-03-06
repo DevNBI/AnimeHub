@@ -19,6 +19,10 @@ We use an M3U8 tool to download all of the Anime sources. For the sources found 
 - Darling In The Franxx
 - Solo Leveling
 - Eminence In Shadow
+- Tower Of God
+- Jobless Reincarnation
+- Bluelock
+- One Piece
 
 ---
 
